@@ -32,42 +32,42 @@ function play(question,answer)
   }
 var question1=
   {
-    question: "What is Aaditya's Favourite Food?\n A.Pizza.\n B.Dosa.\n C.Rolls.\n D.Burgers.\n",
+    question: "What is Aaditya's Favourite Food?\n A.Pizza\n B.Dosa\n C.Rolls\n D.Burgers\n",
     answer: "A"
   }
 var question2=
   {
-    question: "Where does he currently study?.\n",
+    question: "Where does he currently study?\n",
     answer: "MITS"
   }
 var question3=
   {
-    question: "Which branch is he in?.\n",
+    question: "Which branch is he in?\n",
     answer: "IT"
   }
 var question4=
   {
-    question: "Which anime is his favourite?.\n A.Naruto.\n B.Horimiya.\n C.Your Lie In April.\n D.Death Note.\n",
+    question: "Which anime is his favourite?\n A.Naruto\n B.Horimiya\n C.Your Lie In April\n D.Death Note\n",
     answer: "C"
   }
 var question5=
   {
-    question: "Which game does he like to play the most?.\n",
+    question: "Which game does he like to play the most?\n",
     answer: "Valorant"
   }
 var question6=
   {
-    question: "Where was he born?.\n",
+    question: "Where was he born?\n",
     answer: "Rewa"
   }
 var question7=
   {
-    question: "Does he like Coding?.\n",
+    question: "Does he like Coding?\n",
     answer: "Yes"
   }
 var question8=
   {
-    question: "What is his favourite programming language?.\n",
+    question: "What is his favourite programming language?\n",
     answer: "Java"
   }
 
